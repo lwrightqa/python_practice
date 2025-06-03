@@ -1,4 +1,5 @@
-'''You'll be using a function similar to the is_positive function you just wrote.
+"""
+You'll be using a function similar to the is_positive function you just wrote.
 Create an empty list called positive_numbers_entered.
 Write a loop that asks the user to enter 3 numbers, one at a time.
 Inside the loop, for each number entered:
@@ -8,7 +9,8 @@ Call your is_positive function with this number.
 If the is_positive function returns True for the number, append that number to your positive_numbers_entered list.
 After the loop has finished (i.e., after the user has entered all 3 numbers), print the positive_numbers_entered list.
 Finally, print how many positive numbers were collected (i.e., the length of the positive_numbers_entered list).
-You can print it like: "You entered X positive numbers." where X is the count.'''
+You can print it like: "You entered X positive numbers." where X is the count.
+"""
 
 def is_positive(number):
     return number > 0
