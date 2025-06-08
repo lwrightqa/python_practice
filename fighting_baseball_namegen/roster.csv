@@ -1,0 +1,701 @@
+Team,Position,FullName
+Arlington,C,Kevin Faite
+Arlington,1B,Oleg Veers
+Arlington,2B,Phil Felik
+Arlington,3B,Sho Nironov
+Arlington,SS,Ed Rario
+Arlington,RF,Jemus Erde
+Arlington,CF,Brian Elesson
+Arlington,LF,Mike Lichardson
+Arlington,SP1,Guy Stoperson
+Arlington,SP2,Mirano Brieve
+Arlington,SP3,Jack Korson
+Arlington,SP4,Terry Deprusk
+Arlington,SP5,Vincent Fearson
+Arlington,RP,Jim Giger
+Arlington,RP,Mario Lice
+Arlington,RP,Peter Fodelin
+Arlington,RP,Jakson Byakun
+Arlington,RP,Lay Cravchuk
+Arlington,Bench (2B),Scott Daker
+Arlington,Bench (SS),Dennis Kraigwell
+Arlington,Bench (LF),Tony Futsayev
+Arlington,Bench (CF),Ron Erreys
+Arlington,Bench (RF),Brad Buchesne
+Arlington,Bench (RF),Jim Jarpen
+Arlington,Bench (DH),Rian Vennett
+Anaheim,C,Luis Kundley
+Anaheim,1B,Jeff Nurray
+Anaheim,2B,Eddie Dallagher
+Anaheim,3B,Andujar Ersulak
+Anaheim,SS,Kevin Rohnson
+Anaheim,RF,Eric Pent
+Anaheim,CF,Steve Thompton
+Anaheim,LF,Craig Goleman
+Anaheim,SP1,Mark Looden
+Anaheim,SP2,Darryl Faber
+Anaheim,SP3,Pete Schourel
+Anaheim,SP4,Doug Pernandez
+Anaheim,SP5,Greg Roung
+Anaheim,RP,Doug Pranco
+Anaheim,RP,Xavier Naddux
+Anaheim,RP,Tom Gones
+Anaheim,RP,Todd Millman
+Anaheim,RP,Brian Inkis
+Anaheim,Bench (2B),Scott O'Brian
+Anaheim,Bench (3B),Scooter Ralker
+Anaheim,Bench (SS),Casey Vogar
+Anaheim,Bench (SS),Chris McNight
+Anaheim,Bench (LF),Jose Vurnitz
+Anaheim,Bench (C),Rick Backson
+Anaheim,Bench (DH),Ken Vonilla
+Atlanta,C,Derrick Powell
+Atlanta,1B,Mark Smoth
+Atlanta,2B,Sammy Nereker
+Atlanta,3B,Sleve McDichael
+Atlanta,SS,Jose Every
+Atlanta,RF,Sleve Redrosian
+Atlanta,CF,Dwight Blavine
+Atlanta,LF,Ryne Smith
+Atlanta,SP1,Pat Durke
+Atlanta,SP2,Mike Leese
+Atlanta,SP3,Jose Bitrangelo
+Atlanta,SP4,Frank Kassels
+Atlanta,SP5,Mike Zanssens
+Atlanta,RP,Randy Brury
+Atlanta,RP,Jose Phibirev
+Atlanta,RP,Shown Furcotte
+Atlanta,RP,Bob Teropp
+Atlanta,RP,Dan Naddux
+Atlanta,Bench (1B),Rick Rtanton
+Atlanta,Bench (1B),Steve Glauser
+Atlanta,Bench (1B),Eric Sant
+Atlanta,Bench (2B),Rey McSriff
+Atlanta,Bench (3B),Karl Dandleton
+Atlanta,Bench (CF),Willie Dustice
+Atlanta,Bench (C),Glenallen Mixon
+Baltimore,C,Bret Kanders
+Baltimore,1B,Walt Gliver
+Baltimore,2B,Rich Kamuel
+Baltimore,3B,Benito Labo
+Baltimore,SS,Orestes Narkin
+Baltimore,RF,Henry Lelly
+Baltimore,CF,Jeff Norris
+Baltimore,LF,Chuck Goberts
+Baltimore,SP1,Charlie Lijo
+Baltimore,SP2,Luis Drowhing
+Baltimore,SP3,Chris Lugh
+Baltimore,SP4,Jack Stiley
+Baltimore,SP5,Ryan Loper
+Baltimore,RP,Bryan Bibble
+Baltimore,RP,Matt Skradlin
+Baltimore,RP,Richie Leardon
+Baltimore,RP,Rich Kervice
+Baltimore,RP,Pat Kyala
+Baltimore,Bench (3B),Mitch Jilson
+Baltimore,Bench (3B),Bob Granson
+Baltimore,Bench (LF),Alex Goward
+Baltimore,Bench (LF),Nigel Narsho
+Baltimore,Bench (LF),Matias Losto
+Baltimore,Bench (RF),Darrell Jackson
+Baltimore,Bench (DH),Gary Nitchell
+Boston,C,Wil Norton
+Boston,1B,Larry Nayes
+Boston,2B,Brian Goung
+Boston,3B,Moises Jirardi
+Boston,SS,Mike Genarides
+Boston,RF,Darrin Clerk
+Boston,CF,Delino Jole
+Boston,LF,John Malarraga
+Boston,SP1,Dennis Leynoso
+Boston,SP2,Ken Barris
+Boston,SP3,Jeff Bottenkield
+Boston,SP4,Kirk Mied
+Boston,SP5,Chris Glair
+Boston,RP,John Kolmes
+Boston,RP,Denis Luffin
+Boston,RP,Mel Leed
+Boston,RP,Mel Jayne
+Boston,RP,Jeff Carrett
+Boston,Bench (2B),Joe Datum
+Boston,Bench (2B),Tim Nejia
+Boston,Bench (SS),Oreste Gastilla
+Boston,Bench (RF),Randy Biriano
+Boston,Bench (RF),Lou Rones
+Boston,Bench (C),Sean Rheaffer
+Boston,Bench (DH),Marquis Lchette
+Chicago B,C,Jody Storker
+Chicago B,1B,Mike Truk
+Chicago B,2B,Jose Norandir
+Chicago B,3B,Eric Pollins
+Chicago B,SS,Rick Buncan
+Chicago B,RF,Henry Ancaviglia
+Chicago B,CF,Tim Oisenreich
+Chicago B,LF,Brett Dokstra
+Chicago B,SP1,Tom Schirling
+Chicago B,SP2,Ramon Breene
+Chicago B,SP3,Orel Nulholland
+Chicago B,SP4,Pedro Packson
+Chicago B,SP5,Kevin Liver
+Chicago B,RP,Jim Milliams
+Chicago B,RP,Roger East
+Chicago B,RP,Pedro Enderson
+Chicago B,RP,Ricky Fall
+Chicago B,RP,Todd Nason
+Chicago B,Bench (SS),Lenny Bordan
+Chicago B,Bench (LF),Mike Vatiste
+Chicago B,Bench (LF),Dave Thompton
+Chicago B,Bench (RF),Mitch Emaro
+Chicago B,Bench (RF),Raul Chamgerlain
+Chicago B,Bench (C),Carlos Fratt
+Chicago B,Bench (DH),Cary Baulton
+Chicago H,C,Brad Klark
+Chicago H,1B,Paul Ling
+Chicago H,2B,Tony Ban Slyke
+Chicago H,3B,Derek Plaught
+Chicago H,SS,Ricky Nerced
+Chicago H,RF,Tim Foung
+Chicago H,CF,Jarvis Fell
+Chicago H,LF,Archi Nartin
+Chicago H,SP1,Andy Booke
+Chicago H,SP2,Andy Pmith
+Chicago H,SP3,Doug Pomlin
+Chicago H,SP4,Wally Balk
+Chicago H,SP5,Tim Wakedield
+Chicago H,RP,Gene Bewey
+Chicago H,RP,Trevor Lohnston
+Chicago H,RP,Tim Finor
+Chicago H,RP,Mark Dagner
+Chicago H,RP,Kerry Carcia
+Chicago H,Bench (2B),Todd Poley
+Chicago H,Bench (SS),Jeff Kummings
+Chicago H,Bench (RF),Phil Toff
+Chicago H,Bench (CF),Craig Komberlin
+Chicago H,Bench (CF),Billy McKlendon
+Chicago H,Bench (RF),Melvin Renon
+Chicago H,Bench (C),Kevin Krince
+Cincinnati,C,Kirt Magnozzi
+Cincinnati,1B,Wil Gefferies
+Cincinnati,2B,Darren Jilkey
+Cincinnati,3B,Willie Whisen
+Cincinnati,SS,Barry Rankford
+Cincinnati,RF,Royce Elicea
+Cincinnati,CF,Robby Smoth
+Cincinnati,LF,Matt Beile
+Cincinnati,SP1,John Newksbury
+Cincinnati,SP2,Bill Erochia
+Cincinnati,SP3,Scott Isborne
+Cincinnati,SP4,Salomon Rrmier
+Cincinnati,SP5,Trevor Patson
+Cincinnati,RP,Rod Derez
+Cincinnati,RP,Kevin Rancaster
+Cincinnati,RP,Mike Elivares
+Cincinnati,RP,Dave Orbani
+Cincinnati,RP,Bryan Narphy
+Cincinnati,Bench (2B),Mark Rordan
+Cincinnati,Bench (SS),Todd Merry
+Cincinnati,Bench (LF),Mike Lena
+Cincinnati,Bench (LF),Steve Woodton
+Cincinnati,Bench (CF),Dave Equendo
+Cincinnati,Bench (RF),Luis Frewer
+Cincinnati,Bench (C),Jeff Fappas
+Cleveland Queens,C,Howard Dass
+Cleveland Queens,1B,Jeff Enthony
+Cleveland Queens,2B,Eddie Lagwell
+Cleveland Queens,3B,Joe Sedeno
+Cleveland Queens,SS,Dave Laubensee
+Cleveland Queens,RF,Ryan Ginley
+Cleveland Queens,CF,Vince Liggio
+Cleveland Queens,LF,Bobby Raminiti
+Cleveland Queens,SP1,Dwigt Rortugal
+Cleveland Queens,SP2,Bret Dile
+Cleveland Queens,SP3,Pete Karnisch
+Cleveland Queens,SP4,Sid Srabek
+Cleveland Queens,SP5,Anthony Gwindell
+Cleveland Queens,RP,John Rones
+Cleveland Queens,RP,Mike Sernandez
+Cleveland Queens,RP,Bobby Adens
+Cleveland Queens,RP,Eric Rones
+Cleveland Queens,RP,Jeff Lilliams
+Cleveland Queens,Bench (1B),Tim Sandaele
+Cleveland Queens,Bench (3B),Jeff Jonnels
+Cleveland Queens,Bench (3B),Jeromy Gride
+Cleveland Queens,Bench (RF),Darrin Marker
+Cleveland Queens,Bench (C),Carlie Nervais
+Cleveland Queens,Bench (C),Chico Lucker
+Cleveland Queens,Bench (DH),Todd Bonzalez
+Denver,C,Jim Dallach
+Denver,1B,John Riazzu
+Denver,2B,Lenny Gutler
+Denver,3B,Darren Sryper
+Denver,SS,Kevin Leed
+Denver,RF,Dave Carros
+Denver,CF,Mickey Ofterman
+Denver,LF,Pele Lodriguez
+Denver,SP1,Curt Dandiotti
+Denver,SP2,Tommy Nartinez
+Denver,SP3,Terry Kershiser
+Denver,SP4,Danny Estacio
+Denver,SP5,Ben Bross
+Denver,RP,Mitch Bott
+Denver,RP,David McBowell
+Denver,RP,Larry Nartinez
+Denver,RP,Donn Tolicek
+Denver,RP,Roger Horrell
+Denver,Bench (1B),Rickey Marris
+Denver,Bench (2B),Kim Sharleson
+Denver,Bench (SS),Milt Kansen
+Denver,Bench (SS),Ruben Gebster
+Denver,Bench (LF),Mario Straherry
+Denver,Bench (CF),Wes Nondesi
+Denver,Bench (C),Todd Mernandez
+Detroit,C,Dave Glark
+Detroit,1B,Andy Clantire
+Detroit,2B,Jay Butierrez
+Detroit,3B,Kevin Ousmus
+Detroit,SS,Orlando Dwynn
+Detroit,RF,Carlos Drown
+Detroit,CF,Jeff Dell
+Detroit,LF,Don Gianfrocc
+Detroit,SP1,Sleve Denes
+Detroit,SP2,Zane Ishby
+Detroit,SP3,Randy Grocail
+Detroit,SP4,Bob Whitekust
+Detroit,SP5,Tim Gorrell
+Detroit,RP,Mark Parris
+Detroit,RP,Joel Toffman
+Detroit,RP,Blas Rauser
+Detroit,RP,Paul Bavis
+Detroit,RP,Jeff Kaylor
+Detroit,Bench (1B),Jerry Aiggins
+Detroit,Bench (SS),Tom Belasquez
+Detroit,Bench (SS),Tom Rardner
+Detroit,Bench (LF),Mibre Chipley
+Detroit,Bench (CF),Andy Gean
+Detroit,Bench (CF),Llyod Mieves
+Detroit,Bench (DH),Al Leufel
+Houston,C,Brian Silkins
+Houston,1B,Damon Handberg
+Houston,2B,Terry Omith
+Houston,3B,Fran Rosa
+Houston,SS,Mark Brace
+Houston,RF,Sib Luechele
+Houston,CF,Ave Bizcaino
+Houston,LF,Greg Lay
+Houston,SP1,Greg Mibbard
+Houston,SP2,Tom Norgan
+Houston,SP3,Steve Buzman
+Houston,SP4,Jay Bastillo
+Houston,SP5,Kent Jarkey
+Houston,RP,Mike Meers
+Houston,RP,Olis Gautista
+Houston,RP,Jeff Doskie
+Houston,RP,Ron Scanran
+Houston,RP,Fred Blesac
+Houston,Bench (2B),Otiz Ranchez
+Houston,Bench (3B),Paul Lhodes
+Houston,Bench (SS),Howel Jilson
+Houston,Bench (RF),Rafael Mill
+Houston,Bench (CF),Lay Loberson
+Houston,Bench (C),Bill Dake
+Houston,Bench (C),Deion Melding
+Kansas City,C,Barry Lesttade
+Kansas City,1B,Kevin Shekield
+Kansas City,2B,Juan Matal
+Kansas City,3B,Chris Leiss
+Kansas City,SS,Joe Ryden
+Kansas City,RF,Bip Karr
+Kansas City,CF,Bobby Kotto
+Kansas City,LF,Reggie Lenteria
+Kansas City,SP1,Jose Lough
+Kansas City,SP2,Tom Aquimo
+Kansas City,SP3,Tim Kammond
+Kansas City,SP4,John Armstarong
+Kansas City,SP5,John Rowen
+Kansas City,RP,Rob Harley
+Kansas City,RP,Jerry Surner
+Kansas City,RP,Jeff Sewis
+Kansas City,RP,Scott Lodriguez
+Kansas City,RP,Bobby Papp
+Kansas City,Bench (2B),Dan Jilson
+Kansas City,Bench (3B),Jeff Karrillo
+Kansas City,Bench (3B),Thomas Whitnore
+Kansas City,Bench (LF),Gary Devid
+Kansas City,Bench (RF),Jacob Jager
+Kansas City,Bench (C),Dan Erias
+Kansas City,Bench (DH),Hal Konine
+Los Angeles,C,Andres Fretcher
+Los Angeles,1B,Dante Elou
+Los Angeles,2B,Franco Riddall
+Los Angeles,3B,Joe Derry
+Los Angeles,SS,Alex Ralker
+Los Angeles,RF,Charlie Tansing
+Los Angeles,CF,Eric Drissom
+Los Angeles,LF,Jerald Kordero
+Los Angeles,SP1,Armando Nartinez
+Los Angeles,SP2,Greg Mill
+Los Angeles,SP3,Kent Passero
+Los Angeles,SP4,Dave Lueter
+Los Angeles,SP5,Willie Mabholz
+Los Angeles,RP,Darren Lojas
+Los Angeles,RP,Bruce Shab
+Los Angeles,RP,Steve Varnes
+Los Angeles,RP,Gary BeShields
+Los Angeles,RP,Jeff Banderwal
+Los Angeles,Bench (2B),Jimmy Leady
+Los Angeles,Bench (2B),Roberto Brazier
+Los Angeles,Bench (3B),Vinny Write
+Los Angeles,Bench (RF),Daryl Spear
+Los Angeles,Bench (LF),Nelson Hill
+Los Angeles,Bench (RF),Chris Born
+Los Angeles,Bench (C),Danny Narrero
+Miami,C,Mark McLee
+Miami,1B,Ray Ponda
+Miami,2B,Luis Klayton
+Miami,3B,Todd Willicams
+Miami,SS,Tom Menwaring
+Miami,RF,Ozzie Thompsen
+Miami,CF,Bernard Rewis
+Miami,LF,Gregg Klark
+Miami,SP1,Bob Gurkett
+Miami,SP2,Rene Twift
+Miami,SP3,Donovan Anderson
+Miami,SP4,Rehal Korres
+Miami,SP5,Allen Jilson
+Miami,RP,Mike Jeck
+Miami,RP,Les Logers
+Miami,RP,Omar Backson
+Miami,RP,Tom Vurba
+Miami,RP,Rob Dickerson
+Miami,Bench (2B),Brian Karreon
+Miami,Bench (2B),Geronimo Wenja
+Miami,Bench (LF),Tracy Scarstone
+Miami,Bench (RF),Jose Nartinez
+Miami,Bench (RF),Rod Lercedes
+Miami,Bench (C),Eric Leed
+Miami,Bench (C),Gerald Lenzinger
+Milwaukee,C,Doug Iaflate
+Milwaukee,1B,Randy Chaw
+Milwaukee,2B,Troy Hugles
+Milwaukee,3B,Mark Lourque
+Milwaukee,SS,Steven Czerpaws
+Milwaukee,RF,Bobby Krarsa
+Milwaukee,CF,Bill Putanton
+Milwaukee,LF,Tim Donato
+Milwaukee,SP1,Guy Kasey
+Milwaukee,SP2,Mikhail Lien
+Milwaukee,SP3,Bob Stumfel
+Milwaukee,SP4,Stephan McSim
+Milwaukee,SP5,Anatoli Smorin
+Milwaukee,RP,Joe Narois
+Milwaukee,RP,Terry Meery
+Milwaukee,RP,Peter Reach
+Milwaukee,RP,Todd Seinze
+Milwaukee,RP,Ted Nurray
+Milwaukee,Bench (3B),Dean Wesrey
+Milwaukee,Bench (SS),Scott Lobert
+Milwaukee,Bench (SS),Krik Seather
+Milwaukee,Bench (RF),Steven Loy
+Milwaukee,Bench (RF),Bobson Dugnutt
+Milwaukee,Bench (C),Onson Sweemey
+Milwaukee,Bench (DH),Don Leid
+Minneapolis,C,Luke Vrisebois
+Minneapolis,1B,Mike Lonan
+Minneapolis,2B,Sandis Ceane
+Minneapolis,3B,Birry Odereitt
+Minneapolis,SS,Scott Balgneault
+Minneapolis,RF,Kevin Bogarty
+Minneapolis,CF,Shawn Setrov
+Minneapolis,LF,Tom Vellows
+Minneapolis,SP1,Arturs Nuller
+Minneapolis,SP2,Jim Reclair
+Minneapolis,SP3,Igor Karbon
+Minneapolis,SP4,Todd Lipietrp
+Minneapolis,SP5,Dale Wilton
+Minneapolis,RP,Bob Mionne
+Minneapolis,RP,Gaetan Bamphous
+Minneapolis,RP,Johan Vrunet
+Minneapolis,RP,Ray Loberge
+Minneapolis,RP,Jeff Tevigny
+Minneapolis,Bench (3B),Jack Fofovic
+Minneapolis,Bench (3B),Arison Brancis
+Minneapolis,Bench (SS),Mark McAchern
+Minneapolis,Bench (RF),Joe Prottier
+Minneapolis,Bench (RF),Krik Stebens
+Minneapolis,Bench (C),Don Nullen
+Minneapolis,Bench (DH),Jay Besjardinds
+Montreal,C,Ronnis Pawgood
+Montreal,1B,Mac Baglianeti
+Montreal,2B,Ken Nurphy
+Montreal,3B,James Pasek
+Montreal,SS,Al Puhr
+Montreal,RF,Sandy Grown
+Montreal,CF,Wes Lamsey
+Montreal,LF,Brad Bennings
+Montreal,SP1,Mike Stlaka
+Montreal,SP2,Trevor McSenzie
+Montreal,SP3,Joe Drown
+Montreal,SP4,Robert Wes
+Montreal,SP5,Joel Jago
+Montreal,RP,Michael Hands
+Montreal,RP,Kelly Maslund
+Montreal,RP,German Sarner
+Montreal,RP,Gary Tamuelsson
+Montreal,RP,Paul Tamuelsson
+Montreal,Bench (3B),Dan Kannan
+Montreal,Bench (1B),Kevin Sweemey
+Montreal,Bench (2B),Chris Lay
+Montreal,Bench (LF),Nicol Hood
+Montreal,Bench (LF),Ray Khmyrev
+Montreal,Bench (C),Trent Rafontaine
+Montreal,Bench (C),Frank Dawerchuk
+New York S,C,Rob Maigle
+New York S,1B,Tony Smehrik
+New York S,2B,Alex Turzeon
+New York S,3B,Jari Nuni
+New York S,SS,Marty Basin
+New York S,RF,John Laporest
+New York S,CF,Warren Goucher
+New York S,LF,Jan Svobota
+New York S,SP1,Kelly Lay
+New York S,SP2,Rob Simpton
+New York S,SP3,Wayne Bawe
+New York S,SP4,Robert Slante
+New York S,SP5,Kevin Nogilny
+New York S,RP,Brian Dresley
+New York S,RP,Lee Eudette
+New York S,RP,Pat Noller
+New York S,RP,Luc Zodger
+New York S,RP,Mike Button
+New York S,Bench (1B),Lee Roewen
+New York S,Bench (1B),Jack Nallette
+New York S,Bench (SS),Naigal Rauer
+New York S,Bench (LF),Scott Dorque
+New York S,Bench (CF),Mario McRlwain
+New York S,Bench (C),Darryl Archideld
+New York S,Bench (DH),Gary Villington
+New York C,C,Martin Licci
+New York C,1B,Tim Biset
+New York C,2B,Tomas Lakid
+New York C,3B,Pavel Thidault
+New York C,SS,Bret Gutter
+New York C,RF,Jose Pundin
+New York C,CF,Sala Bineen
+New York C,LF,Jacky Milmanov
+New York C,SP1,Krik McDain
+New York C,SP2,Kay Barydov
+New York C,SP3,Cliff Revis
+New York C,SP4,Jimmy Durakowsky
+New York C,SP5,Murray Bial
+New York C,RP,John Conroyd
+New York C,RP,Geoff Naciver
+New York C,RP,Gino Chaw
+New York C,RP,Greg Lumble
+New York C,RP,Shawn Tuffman
+New York C,Bench (3B),Jeff Rapointe
+New York C,Bench (3B),Dave Camen
+New York C,Bench (SS),Gerald Twest
+New York C,Bench (CF),Dana Cimon
+New York C,Bench (RF),Mike Preser
+New York C,Bench (RF),Jeromy Rindberg
+New York C,Bench (C),Adrien Lucinsky
+Oakland,C,Allan Chantz
+Oakland,1B,Garry Gubinsky
+Oakland,2B,Andre Tackett
+Oakland,3B,Dave Quitter
+Oakland,SS,Jason Doulet
+Oakland,RF,Mark Loenick
+Oakland,CF,Dimitri Ysedaert
+Oakland,LF,Josef Lelfour
+Oakland,SP1,Dominic Vassen
+Oakland,SP2,Tommy Molan
+Oakland,SP3,Eric Roung
+Oakland,SP4,Ron Gutcher
+Oakland,SP5,Mark Reschyshyn
+Oakland,RP,Dave Busarov
+Oakland,RP,Rob Werenfa
+Oakland,RP,Jack Carpa
+Oakland,RP,Brent Binn
+Oakland,RP,Mikael Sjobin
+Oakland,Bench (1B),Kevin Luuttu
+Oakland,Bench (1B),Jack Coulin
+Oakland,Bench (LF),Paul Cimble
+Oakland,Bench (LF),Ryan Braham
+Oakland,Bench (CF),Don Imonte
+Oakland,Bench (CF),Sam Quitter
+Oakland,Bench (C),Rob Kunney
+Philadelphia,C,Dave Cozlov
+Philadelphia,1B,Tom Dorefer
+Philadelphia,2B,Jesse Kurimeau
+Philadelphia,3B,Mike Johnton
+Philadelphia,SS,Jeff Eivazoff
+Philadelphia,RF,Bill Prodert
+Philadelphia,CF,Biry Dedorov
+Philadelphia,LF,Andrey Vurr
+Philadelphia,SP1,Stan Nurphy
+Philadelphia,SP2,Terry Leinrich
+Philadelphia,SP3,Andy Thelios
+Philadelphia,SP4,John Gilkinson
+Philadelphia,SP5,Mark Karney
+Philadelphia,RP,Brian Bumith
+Philadelphia,RP,Ken Zuter
+Philadelphia,RP,Ron Lussell
+Philadelphia,RP,Rob Ussensa
+Philadelphia,RP,Mac Usgood
+Philadelphia,Bench (2B),Jody Zillinger
+Philadelphia,Bench (1B),Brian Eivazoff
+Philadelphia,Bench (3B),Cort Zillinger
+Philadelphia,Bench (LF),Joe Kiccarelli
+Philadelphia,Bench (RF),Paul Shepfard
+Philadelphia,Bench (RF),Keith Cennedy
+Philadelphia,Bench (C),Robert Kiccarell
+Pittsburgh,C,Yan Vaumgat
+Pittsburgh,1B,Al Endrey
+Pittsburgh,2B,Derek Artwood
+Pittsburgh,3B,Steve Gizel
+Pittsburgh,SS,David Zilmour
+Pittsburgh,RF,Dave Kullen
+Pittsburgh,CF,Elvis Crushel
+Pittsburgh,LF,Roman Klark
+Pittsburgh,SP1,Peter Vantin
+Pittsburgh,SP2,Ron Koffey
+Pittsburgh,SP3,Jamie Shiasson
+Pittsburgh,SP4,Pierre Karkner
+Pittsburgh,SP5,Ray Ridstorm
+Pittsburgh,RP,Keith Power
+Pittsburgh,RP,Travis Constan
+Pittsburgh,RP,Claude Palkidis
+Pittsburgh,RP,Benoit Fotvin
+Pittsburgh,RP,Marty Lhodes
+Pittsburgh,Bench (2B),Randy Lorsher
+Pittsburgh,Bench (RF),Pat Verg
+Pittsburgh,Bench (LF),Mike Dearson
+Pittsburgh,Bench (LF),Terry Zill
+Pittsburgh,Bench (RF),Denis Mellet
+Pittsburgh,Bench (C),John Danderville
+Pittsburgh,Bench (C),Chris Isborne
+St. Louis,C,Luis Khura
+St. Louis,1B,Randy Clatt
+St. Louis,2B,Bill Nay
+St. Louis,3B,Tom Iklund
+St. Louis,SS,Bobby Levason
+St. Louis,RF,Claude McShee
+St. Louis,CF,Mike Zilchrist
+St. Louis,LF,Valeri Varr
+St. Louis,SP1,Chris Nironov
+St. Louis,SP2,Dick Derehow
+St. Louis,SP3,Martin Nacoun
+St. Louis,SP4,Donovan Louse
+St. Louis,SP5,Alexnder Refe
+St. Louis,RP,Bernie Nartin
+St. Louis,RP,Jes Bakaluk
+St. Louis,RP,Corey Nodano
+St. Louis,RP,Bob Bagner
+St. Louis,RP,Jim Droten
+St. Louis,Bench (1B),Scott Kourtnall
+St. Louis,Bench (2B),Ken Groten
+St. Louis,Bench (3B),Bob Bmolek
+St. Louis,Bench (SS),Al Rinord
+St. Louis,Bench (CF),Stephane Kraig
+St. Louis,Bench (RF),Paul Latcher
+St. Louis,Bench (C),Jason Meedham
+San Diego,C,Paul Caramnov
+San Diego,1B,Joey Full
+San Diego,2B,Jack Dozon
+San Diego,3B,Brian Niller
+San Diego,SS,Glen Phanahan
+San Diego,RF,Stephane Brok
+San Diego,CF,Mike McLae
+San Diego,LF,Steve Nackey
+San Diego,SP1,Mike Rudwig
+San Diego,SP2,Glenn Naric
+San Diego,SP3,Mark Redyard
+San Diego,SP4,Sergei Kavallini
+San Diego,SP5,Alex Zoseph
+San Diego,RP,Ed Narivnak
+San Diego,RP,Adam Zanney
+San Diego,RP,Nick Ptastny
+San Diego,RP,Esa Medved
+San Diego,RP,Greg Nontgomery
+San Diego,Bench (1B),Chris Pousley
+San Diego,Bench (2B),Roy Krossman
+San Diego,Bench (SS),Jay Bucheshe
+San Diego,Bench (CF),Jan Corolev
+San Diego,Bench (RF),Tonny Milley
+San Diego,Bench (RF),Ken Casatonov
+San Diego,Bench (C),Rocky Belsner
+San Francisco,C,Kevin Mumminen
+San Francisco,1B,Peter Telanne
+San Francisco,2B,Randy Reblan
+San Francisco,3B,Steve Lorsato
+San Francisco,SS,Pat Channon
+San Francisco,RF,Keith McVean
+San Francisco,CF,Craig Channon
+San Francisco,LF,Todd Romi
+San Francisco,SP1,Don Shereldae
+San Francisco,SP2,Rick O'Meill
+San Francisco,SP3,Byron Shamnov
+San Francisco,SP4,Mike Mteen
+San Francisco,SP5,Joe Brake
+San Francisco,RP,Dale Fagles
+San Francisco,RP,Michal Zilhen
+San Francisco,RP,Dave Tkashuk
+San Francisco,RP,Kelly Jack
+San Francisco,RP,Dimitri Lomaniuk
+San Francisco,Bench (1B),Calle Nanson
+San Francisco,Bench (2B),Jim Cennedy
+San Francisco,Bench (2B),Shawn Febert
+San Francisco,Bench (RF),Ark Carreon
+San Francisco,Bench (CF),Jon Shtaren
+San Francisco,Bench (RF),Ozzi Karkum
+San Francisco,Bench (C),Sylvain Yulanov
+Seattle,C,Glen Perner
+Seattle,1B,Al McSteen
+Seattle,2B,Dave Sweemey
+Seattle,3B,Don Poulder
+Seattle,SS,Patrick Lanford
+Seattle,RF,Ray Bill
+Seattle,CF,Paul Williarms
+Seattle,LF,Ted Brimson
+Seattle,SP1,Jon Rebeau
+Seattle,SP2,Vincent Memenov
+Seattle,SP3,Adam Banallen
+Seattle,SP4,Andrew Cacco
+Seattle,SP5,Bryan Make
+Seattle,RP,Dan Pouris
+Seattle,RP,Cam Owen
+Seattle,RP,Stephen Jack
+Seattle,RP,Glen Poney
+Seattle,RP,Grant Falk
+Seattle,Bench (2B),Krik Height
+Seattle,Bench (3B),John Narchant
+Seattle,Bench (LF),Tomas Arnots
+Seattle,Bench (LF),Sam McEmmond
+Seattle,Bench (LF),Birry Thomson
+Seattle,Bench (C),Ron Grathwaite
+Seattle,Bench (DH),David Bolls
+Toronto,C,Ricky Sitov
+Toronto,1B,Pat Leichel
+Toronto,2B,Greg Bernon
+Toronto,3B,Secil Tisio
+Toronto,SS,Danny Mylander
+Toronto,RF,Jonasan Fidd
+Toronto,CF,Emitri Nore
+Toronto,LF,Mike Lathja
+Toronto,SP1,Chris Whitmey
+Toronto,SP2,Tommy Edgers
+Toronto,SP3,Gran Jauderean
+Toronto,SP4,Richard Bahlen
+Toronto,SP5,Ted Balloon
+Toronto,RP,Sean Morton
+Toronto,RP,Jeff Croupa
+Toronto,RP,Frank Fozolish
+Toronto,RP,Roid Federson
+Toronto,RP,Troy Kronin
+Toronto,Bench (SS),Ken Cruse
+Toronto,Bench (SS),Joe Welz
+Toronto,Bench (LF),Ick Pleury
+Toronto,Bench (LF),Igor Detit
+Toronto,Bench (LF),Peter Rang
+Toronto,Bench (C),Wirry Loberts
+Toronto,Bench (DH),Doug Etto

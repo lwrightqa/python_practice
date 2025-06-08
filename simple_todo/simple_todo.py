@@ -23,7 +23,7 @@ them.
 """
 
 # Task list to store task_list
-task_list = []
+task_list = ["Add your first task to the list"]
 
 # Functions
 def display_menu():
@@ -85,7 +85,7 @@ def main():
         try:
             choice_int = int(choice_str) # Convert string input to integer
             if choice_int == 1: # Add task
-                task = input("You selected Add Task")
+                print("You selected Add Task")
                 add_new_task()
             elif choice_int == 2:
                 print("You selected View Task List")
