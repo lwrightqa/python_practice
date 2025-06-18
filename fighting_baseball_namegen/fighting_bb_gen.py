@@ -68,7 +68,7 @@ while True:
 
         position_full_name = position_mapping.get(position_abbreviation, position_abbreviation)
 
-        print(f"----- Your Player is -----")
+        print(f"\n---------- Your Player is ----------")
         print(f"{full_name}, {position_full_name} for {team}.")
     else:
         print("Could not select a player. Try again.")

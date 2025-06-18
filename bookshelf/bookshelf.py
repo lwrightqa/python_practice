@@ -1,15 +1,7 @@
 import json  # For JSON operations
 import os  # To check if file exists
+import random
 
-
-# The initial comment block describing the Book dictionary structure
-# is not valid Python code and should be removed or commented out.
-# For example:
-# Book {
-# 	'title': book.title,
-# 	'author': book.author
-# 	'year': book.year
-# }
 
 class Book:
 	# Represents a single book with title, author and publication year.
@@ -19,7 +11,7 @@ class Book:
 		self.year = year  # 'self.year' is an attribute
 
 	def get_details(self):  # This is a method
-		return f"Title: {self.title}, Author: {self.author}, Year: {self.year}"
+		return f"{self.title} by {self.author}, {self.year}"
 
 	def to_dict(self):
 		# Returns a dictionary representation of the book.
@@ -52,6 +44,7 @@ class Library:
 		print("\n--- Current Books in Library ---")
 		for i, book in enumerate(self.books):
 			print(f"{i + 1}. {book.get_details()}")
+		print("\nTotal books in the library: ", len(self.books))
 		print("--------------------------------")
 
 	def find_book(self, search_term):
@@ -71,9 +64,16 @@ class Library:
 			print(f"\n--- Books matching '{search_term}' ---")
 			for book in found_books:
 				print(book.get_details())
-			print("------------------------------------")
+			print("--------------------------------")
 
-	# Removed: choice = input("Enter your choice (1-4): ") as it's out of place here
+	def get_random_book(self):
+		if not self.books:
+			print("The library is empty.")
+			return None
+		else:
+			random_book = random.choice(self.books)
+			print(f"\nYour random book is: \n{random_book.get_details()}")
+			return random_book
 
 	def save_books_to_file(self):
 		# Saves the current list of books to the JSON file.
@@ -82,9 +82,9 @@ class Library:
 		try:
 			with open(self.filepath, 'w') as f:
 				json.dump(books_data, f, indent=4)  # indent for readability
-			print(f"Library saved to {self.filepath}")
+			print(f"Book saved to {self.filepath}")
 		except IOError:
-			print(f"Error: Could not save library to {self.filepath}")
+			print(f"Error: Could not save book to {self.filepath}")
 
 	def load_books_from_file(self):
 		# Loads books from the JSON file.
@@ -114,7 +114,6 @@ class Library:
 			print(f"Error: Invalid year format in {self.filepath}. Starting with an empty library.")
 			self.books = []
 
-
 def main():
 	# Main function to run the Book Collection Manager application.
 	library_file = "my_books.json"  # Define the filename for storing data
@@ -125,10 +124,11 @@ def main():
 		print("1. Add a new book")
 		print("2. List all books")
 		print("3. Search for a book")
-		print("4. Exit")
-		print("------------------------------------")
+		print("4. Get a random book")
+		print("5. Exit")
+		print("--------------------------------------")
 
-		choice = input("Enter your choice (1 - 4): ")
+		choice = input("Enter your choice (1 - 5): ")
 
 		if choice == "1":
 			title = input("Enter book title: ")
@@ -141,18 +141,20 @@ def main():
 				except ValueError:
 					print("Invalid year. Please enter a valid number.")
 			my_library.add_book(title, author, year)  # Pass the integer year
+			my_library.save_books_to_file()
 		elif choice == "2":
 			my_library.list_books()
 		elif choice == "3":
 			search_term = input("Enter title or author to search: ")
 			my_library.find_book(search_term)
 		elif choice == "4":
+			my_library.get_random_book()
+		elif choice == "5":
 			my_library.save_books_to_file()  # Save before exiting
 			print("Exiting Book Collection Manager. Goodbye!")
 			break
 		else:
 			print("Invalid choice. Please enter a number between 1 and 4.")
-
 
 if __name__ == "__main__":
 	main()
